@@ -1,0 +1,23 @@
+_repo: Throne-Makers_58856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thayer, William Roscoe
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '887'
+    url: http://www.gutenberg.org/2009/agents/887
+    wikipedia: https://en.wikipedia.org/wiki/William_Roscoe_Thayer
+description: ''
+gutenberg_issued: '2019-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Throne-Makers
+url: http://www.gutenberg.org/ebooks/58856
